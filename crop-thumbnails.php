@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/extend/plugins/crop-thumbnails/
  * Author: Volkmar Kantor
  * Author URI: https://www.totalmedial.de
- * Version: 1.2.6
+ * Version: 1.2.6.999-delete-old-thumbnails-when-file-name-changes
  * Description: The easy way to adjust your cropped image sizes.
  * 
  * 
